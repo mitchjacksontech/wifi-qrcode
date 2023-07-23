@@ -96,6 +96,8 @@ sub parse_args_or_show_help() {
 }
 
 sub show_debug () {
+  say "SSID:     $ssid";
+  say "PASSWORD: $password";
   say "FILENAME: $filename";
   say "BARCODE:  " . barcode_string();
 }

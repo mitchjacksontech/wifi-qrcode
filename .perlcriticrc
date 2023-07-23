@@ -1,0 +1,7 @@
+theme = core
+[-ControlStructures::ProhibitPostfixControls]
+[-Documentation::RequirePodSections]
+[-Modules::RequireVersionVar]
+[-RegularExpressions::RequireLineBoundaryMatching]
+[-RegularExpressions::RequireExtendedFormatting]
+[-Subroutines::ProhibitSubroutinePrototypes]

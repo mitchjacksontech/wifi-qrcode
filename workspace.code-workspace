@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true,
+		// PLS
+		"pls.perltidy.perltidyrc": ".perltidyrc",
+		"pls.perlcritic.enabled": true,
+		"pls.perlcritic.perlcriticrc": ".perlcriticrc",
+		// trailing-spaces
+		"trailing-spaces.highlightCurrentLine": true,
+		"trailing-spaces.includeEmptyLines": false,
+		"trailing-spaces.deleteModifiedLinesOnly": true,
+		"trailing-spaces.trimOnSave": true,
+		// Code outline panel
+		"outline.showArrays": false,
+		"outline.showKeys": false,
+		"outline.showVariables": false
+	}
+}
